@@ -39,8 +39,8 @@ In contrast, lighter genres like "Action, Adventure, Comedy" tended to underperf
 
 One unexpected trend was the impact of movie duration. Marvel's longer films consistently outperformed shorter ones in both ratings and revenue. When breaking down movies by budget and duration, the most profitable category included long, high-budget films, exemplified by blockbusters like Avengers: Infinity War.
 
-![Duration vs Gross](images/duration_vs_gross.png)
-![Duration vs Ratings](images/duration_vs_ratings.png)
+![Duration vs Gross](images/heatmaps.png)
+
 
 ---
 
