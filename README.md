@@ -1,4 +1,5 @@
-<img width="1203" alt="screentime" src="https://github.com/user-attachments/assets/f14c7f9a-9b91-47de-9551-8708da009525" /># Marvel's Cinematic Secret: A Data Story
+
+# Marvel's Cinematic Secret: A Data Story
 
 I wasn't always an MCU fan - no comics, no quirky socks, no midnight premieres. But after binging the Infinity Saga with a True Believer, I was hooked. The humor, the heroes, the storytelling - it swept me away. So, when it came time to pick a project, I had one burning question: What makes Marvel movies so successful? Is it the heroes, the villains, the massive budgets, or the genre mashups? This data-driven journey was my way of finding out.
 
