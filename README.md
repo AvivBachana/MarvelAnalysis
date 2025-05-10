@@ -29,11 +29,9 @@ Interestingly, Phase 3 movies consistently outperformed earlier phases, suggesti
 Next, I turned to the question of genre. Marvel's films often blend action, adventure, and sci-fi, but how do these combinations impact ratings and revenue?
 The "Action, Adventure, Drama" genre emerged as a fan favorite, with the highest IMDB ratings and gross revenues. Films like Black Panther combine emotional depth with thrilling action - a combination audiences clearly love.
 
-![Genre Gross](images/genre_gross.png)
-
 In contrast, lighter genres like "Action, Adventure, Comedy" tended to underperform in ratings, signaling that Marvel fans may prefer deeper storytelling when it comes to their superheroes.
 
-![Genre Ratings](images/genre_ratings.png)
+![Genre Gross](images/genre.png)
 
 ---
 
