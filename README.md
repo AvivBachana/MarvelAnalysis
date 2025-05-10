@@ -2,6 +2,8 @@
 
 I wasn't always an MCU fan - no comics, no quirky socks, no midnight premieres. But after binging the Infinity Saga with a True Believer, I was hooked. The humor, the heroes, the storytelling - it swept me away. So, when it came time to pick a project, I had one burning question: What makes Marvel movies so successful? Is it the heroes, the villains, the massive budgets, or the genre mashups? This data-driven journey was my way of finding out.
 
+![Budget vs Revenue](images/marvel1.png)
+
 I started with datasets from Kaggle, covering details like budgets, revenues, IMDB scores, and character screen time. Merging these datasets was just the beginning - filling gaps meant digging into Wikipedia, Marvel fan sites, and more. After stitching everything together and cleaning the data, I was ready to uncover what makes Marvel movies such a phenomenon.
 
 ---
@@ -27,11 +29,9 @@ Interestingly, Phase 3 movies consistently outperformed earlier phases, suggesti
 Next, I turned to the question of genre. Marvel's films often blend action, adventure, and sci-fi, but how do these combinations impact ratings and revenue?
 The "Action, Adventure, Drama" genre emerged as a fan favorite, with the highest IMDB ratings and gross revenues. Films like Black Panther combine emotional depth with thrilling action - a combination audiences clearly love.
 
-![Genre Gross](images/genre_gross.png)
-
 In contrast, lighter genres like "Action, Adventure, Comedy" tended to underperform in ratings, signaling that Marvel fans may prefer deeper storytelling when it comes to their superheroes.
 
-![Genre Ratings](images/genre_ratings.png)
+![Genre Gross](images/genre.png)
 
 ---
 
@@ -51,6 +51,8 @@ To better understand Marvel's formula for success, I created an interactive Tabl
 *View the Tableau Sheet Here*
 
 ---
+![Duration vs Ratings](images/marvel2.png)
+
 
 ## Heroes in the Spotlight: A Tale of Screen Time and Success
 
@@ -62,7 +64,10 @@ When analyzing the screen time of Marvel's iconic heroes, a fascinating pattern 
 
 ---
 
+
 ## The Villain Effect
+
+![Villain Screen Time vs Ratings](images/marvel3.png)
 
 The analysis didn't stop with heroes. I also explored the impact of villains, like Thanos and Loki, on movie success.
 
