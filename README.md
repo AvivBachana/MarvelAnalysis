@@ -1,4 +1,4 @@
-# Marvel's Cinematic Secret: A Data Story
+<img width="1203" alt="screentime" src="https://github.com/user-attachments/assets/f14c7f9a-9b91-47de-9551-8708da009525" /># Marvel's Cinematic Secret: A Data Story
 
 I wasn't always an MCU fan - no comics, no quirky socks, no midnight premieres. But after binging the Infinity Saga with a True Believer, I was hooked. The humor, the heroes, the storytelling - it swept me away. So, when it came time to pick a project, I had one burning question: What makes Marvel movies so successful? Is it the heroes, the villains, the massive budgets, or the genre mashups? This data-driven journey was my way of finding out.
 
@@ -71,8 +71,7 @@ When analyzing the screen time of Marvel's iconic heroes, a fascinating pattern 
 
 The analysis didn't stop with heroes. I also explored the impact of villains, like Thanos and Loki, on movie success.
 
-![Villain Screen Time vs Ratings](images/villain_screen_time_vs_ratings.png)
-![Villain Screen Time vs Gross](images/villain_screen_time_vs_gross.png)
+![Villain Screen Time vs Ratings](images/screentime.png)
 
 Villains like Thanos, who dominated the narrative in Avengers: Infinity War and Avengers: Endgame, show strong positive correlations with metrics like IMDB scores.
 
