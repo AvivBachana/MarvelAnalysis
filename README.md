@@ -2,6 +2,8 @@
 
 I wasn't always an MCU fan - no comics, no quirky socks, no midnight premieres. But after binging the Infinity Saga with a True Believer, I was hooked. The humor, the heroes, the storytelling - it swept me away. So, when it came time to pick a project, I had one burning question: What makes Marvel movies so successful? Is it the heroes, the villains, the massive budgets, or the genre mashups? This data-driven journey was my way of finding out.
 
+![Budget vs Revenue](images/marvel1.png)
+
 I started with datasets from Kaggle, covering details like budgets, revenues, IMDB scores, and character screen time. Merging these datasets was just the beginning - filling gaps meant digging into Wikipedia, Marvel fan sites, and more. After stitching everything together and cleaning the data, I was ready to uncover what makes Marvel movies such a phenomenon.
 
 ---
@@ -51,6 +53,8 @@ To better understand Marvel's formula for success, I created an interactive Tabl
 *View the Tableau Sheet Here*
 
 ---
+![Duration vs Ratings](images/marvel2.png)
+
 
 ## Heroes in the Spotlight: A Tale of Screen Time and Success
 
@@ -61,6 +65,8 @@ Marvel's characters are the heart of its universe, and their screen time often r
 When analyzing the screen time of Marvel's iconic heroes, a fascinating pattern emerges: characters like Tony Stark (Iron Man) and Steve Rogers (Captain America) consistently demonstrate positive correlations between their screen time and metrics such as IMDB scores and gross revenue.
 
 ---
+
+![Villain Screen Time vs Ratings](images/marvel3.png)
 
 ## The Villain Effect
 
