@@ -66,9 +66,10 @@ When analyzing the screen time of Marvel's iconic heroes, a fascinating pattern 
 
 ---
 
-![Villain Screen Time vs Ratings](images/marvel3.png)
 
 ## The Villain Effect
+
+![Villain Screen Time vs Ratings](images/marvel3.png)
 
 The analysis didn't stop with heroes. I also explored the impact of villains, like Thanos and Loki, on movie success.
 
