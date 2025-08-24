@@ -18,7 +18,7 @@ This data-driven journey was my way of finding out.
 
 ---
 
-## 🧪 Workflow
+## Workflow
 
 1. Merged multiple datasets (budgets, ratings, character traits, screen time)  
 2. Cleaned and completed data using public sources  
@@ -37,7 +37,7 @@ I started with datasets from Kaggle, covering budgets, revenues, IMDB scores, an
 
 ---
 
-## 💸 Blockbuster Budgets: Bigger Is Better?
+## Blockbuster Budgets: Bigger Is Better?
 
 ![Budget vs Revenue](images/budget_vs_revenue.png)  
 *Higher budgets correlate strongly with higher revenue (r = 0.91)*
@@ -46,7 +46,7 @@ Films like *Avengers: Endgame* demonstrate that Marvel's massive investments pay
 
 ---
 
-## 🎭 Genre Impact on Success
+## Genre Impact on Success
 
 ![Genre Breakdown](images/genre.png)  
 *“Action, Adventure, Drama” performs best in both ratings and box office*
@@ -64,7 +64,7 @@ Movies like *Infinity War* sit in the most profitable category.
 
 ---
 
-## 🎬 Runtime and Ratings
+## Runtime and Ratings
 
 ![Duration vs Ratings](images/marvel2.png)  
 *Longer films correlate with higher IMDB ratings*
@@ -73,7 +73,7 @@ Marvel’s longer runtimes seem to allow deeper narratives and character develop
 
 ---
 
-## 🦸‍♂️ Heroes in the Spotlight
+## Heroes in the Spotlight
 
 ![Hero Screen Time](images/character_screen_time.png)  
 *Lead characters with more screen time also drive better ratings and higher revenue*
