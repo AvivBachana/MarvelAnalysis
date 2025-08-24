@@ -106,15 +106,15 @@ Marvel’s shift toward inclusivity is seen not just in numbers — but in how p
 
 ---
 
-## 🧩 Key Takeaways
+## 🔑 Key Takeaways
 
-- 🦸‍♂️ **Lead heroes drive success** – Screen time matters  
-- 🧑‍🤝‍🧑 **The ensemble effect** – Group casts often perform better  
-- 😈 **Villains matter too** – Their presence impacts ratings  
-- 🎭 **Genre mashups** – Action + Drama resonates more than pure comedy  
-- 💰 **Big budgets pay off** – High investment = high returns  
-- ⌛ **The long game** – Runtime correlates with depth and success  
-- ♀️ **Balanced representation** – Power dynamics are evolving
+-  **Lead heroes drive success** – Screen time matters  
+-  **The ensemble effect** – Group casts often perform better  
+-  **Villains matter too** – Their presence impacts ratings  
+-  **Genre mashups** – Action + Drama resonates more than pure comedy  
+-  **Big budgets pay off** – High investment = high returns  
+-  **The long game** – Runtime correlates with depth and success  
+-  **Balanced representation** – Power dynamics are evolving
 
 ---
 
