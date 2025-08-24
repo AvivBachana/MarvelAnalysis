@@ -1,5 +1,65 @@
+# Marvel Cinematic Universe Data Analysis
 
-# Marvel's Cinematic Secret: A Data Story
+A data-driven exploration of the Marvel Cinematic Universe (MCU), focusing on patterns in diversity, ratings, budget trends, and franchise success across movies and phases. The goal was to extract storytelling and business insights using Python-based EDA.
+
+---
+
+## 🔧 Tech Stack
+- **Languages:** Python  
+- **Libraries:** Pandas, Seaborn, Matplotlib  
+- **Environment:** Jupyter Notebook  
+
+---
+
+## 📊 Key Questions
+- How has diversity in leading roles changed over time?
+- Is there a correlation between audience ratings and box office success?
+- How do budgets and revenue evolve across MCU phases?
+- Which phases or franchises are most financially successful?
+  
+---
+
+## 🧪 Workflow
+1. Data cleaning (handling missing values, duplicates)
+2. Exploratory Data Analysis (EDA)
+3. Visualizations with Seaborn & Matplotlib
+4. Insights & reflections
+
+---
+
+## 📷 Sample Visualizations
+
+![Diversity Over Time](./assets/diversity_trend.png)
+*Representation of female/non-white lead characters over time*
+
+![Budget Trends](./assets/budget_trends.png)
+*MCU budget growth per phase*
+
+![Rating vs Revenue](./assets/ratings_vs_revenue.png)
+*Audience rating correlation with worldwide revenue*
+
+---
+
+## 🔍 Summary of Insights
+- Representation of diverse lead roles increased significantly in later phases.
+- High audience ratings do not always translate to higher revenue.
+- Phase 3 was the most financially successful and had the highest consistency in ratings.
+
+---
+
+## ▶️ How to View / Run
+- All analysis is performed in Jupyter Notebook.
+- You can view the notebook directly on GitHub or open it in Google Colab for interactive exploration.
+
+---
+
+## 📌 More Projects
+- [Emergency Event Data Generator](https://github.com/AvivBachana/data_generator) – NLP + Audio + APIs  
+- [Predictive Classification (Titanic ML Pipeline)](https://github.com/AvivBachana/ML_FirstAssignment) – Full E2E ML Workflow  
+
+---
+
+
 
 I wasn't always an MCU fan - no comics, no quirky socks, no midnight premieres. But after binging the Infinity Saga with a True Believer, I was hooked. The humor, the heroes, the storytelling - it swept me away. So, when it came time to pick a project, I had one burning question: What makes Marvel movies so successful? Is it the heroes, the villains, the massive budgets, or the genre mashups? This data-driven journey was my way of finding out.
 
