@@ -10,7 +10,8 @@ This data-driven journey was my way of finding out.
 ---
 
 ## 🧰 Tech Stack
-
+**Demonstrated Skills:**  
+Data wrangling · Data cleaning & merging · Exploratory Data Analysis (EDA) · Visualization & storytelling · Feature enrichment
 - **Language:** Python  
 - **Libraries:** Pandas, Matplotlib, Seaborn  
 - **Tools:** Jupyter Notebook  
